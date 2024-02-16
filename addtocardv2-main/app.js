@@ -57,16 +57,70 @@ let products = [
     price: 150,
   },
   {
-    id: 9,
+    id: 8,
     name: "SPINACH SOUP",
     image: "8.PNG",
     price: 200,
   },
   {
-    id: 10,
+    id: 9,
     name: "CHICKEN BIRIYANI",
     image: "9.PNG",
     price: 1200,
+  },
+  {
+    id: 10,
+    name: "DOSA",
+    image: "10.PNG",
+    price: 60,
+  },
+  {
+    id: 11,
+    name: "IDLI",
+    image: "11.PNG",
+    price: 50,
+  },
+  {
+    id: 12,
+    name: "VADA",
+    image: "12.PNG",
+    price: 60,
+  },
+  {
+    id: 13,
+    name: "GULAB JAMUN",
+    image: "13.PNG",
+    price: 80,
+  },
+  {
+    id: 14,
+    name: "RASMALAI",
+    image: "14.PNG",
+    price: 80,
+  },
+  {
+    id: 15,
+    name: "KAJU KATLI",
+    image: "15.PNG",
+    price: 150,
+  },
+  {
+    id: 16,
+    name: "CHOCOLATE ICE CREAM",
+    image: "16.PNG",
+    price: 200,
+  },
+  {
+    id: 17,
+    name: "PISTA ICE CREAM",
+    image: "17.PNG",
+    price: 240,
+  },
+  {
+    id: 18,
+    name: "HAZEL NUT ICE CREAM",
+    image: "18.PNG",
+    price: 200,
   },
 ];
 let listCarts = [];
